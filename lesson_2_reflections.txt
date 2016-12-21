@@ -33,5 +33,11 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Things appeared before branching will be kept;
+	Things added in branches will be added;
+	Things appeared before branching, but deleted in any branch will be deleted.
+	Representing in diagram can visualize the merging process and have a careful
+	observation of the branching and merging processes.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
