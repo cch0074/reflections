@@ -35,4 +35,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    In separate branch:	indicate you're opening up a new feature, and won't affect
+	other cooperators or the "master" one, in case your changes cause a crash.
+	Directly in master:	simpler, more convenient, take less time to commit a change.
